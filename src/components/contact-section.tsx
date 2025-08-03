@@ -378,8 +378,8 @@ export default function ContactSection() {
                 {
                   icon: <Phone className="w-5 h-5 sm:w-6 sm:h-6" />,
                   title: "Phone",
-                  value: "+92 300 1234567",
-                  href: "tel:+923001234567",
+                  value: "+91 9125697376",
+                  href: "tel:+919125697376",
                   gradient: "from-green-400 to-emerald-500",
                 },
                 {
