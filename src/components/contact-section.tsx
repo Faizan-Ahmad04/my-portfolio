@@ -371,8 +371,8 @@ export default function ContactSection() {
                 {
                   icon: <Mail className="w-5 h-5 sm:w-6 sm:h-6" />,
                   title: "Email",
-                  value: "faizan.ahmad@example.com",
-                  href: "mailto:faizan.ahmad@example.com",
+                  value: "faizanalvi093@gmail.com",
+                  href: "mailto:faizanalvi093@gmail.com",
                   gradient: "from-red-400 to-pink-500",
                 },
                 {
